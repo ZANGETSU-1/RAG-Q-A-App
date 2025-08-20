@@ -1,0 +1,32 @@
+{
+  "name": "monkey-registry-app",
+  "version": "1.0.0",
+  "description": "Monkey Registry CRUD application for assessment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.0.0",
+    "@aws-sdk/lib-dynamodb": "^3.0.0",
+    "uuid": "^9.0.0",
+    "commander": "^11.0.0",
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^3.0.0"
+  },
+  "keywords": [
+    "monkey",
+    "registry",
+    "crud",
+    "dynamodb",
+    "assessment"
+  ],
+  "author": "Assessment Candidate",
+  "license": "MIT"
+}

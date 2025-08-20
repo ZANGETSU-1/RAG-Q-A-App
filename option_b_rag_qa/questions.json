@@ -1,0 +1,63 @@
+[
+  {
+    "question": "What are the main principles of getting rich according to Wallace Wattles?",
+    "expected_references": [
+      "science_of_getting_rich_chunk_1",
+      "science_of_getting_rich_chunk_5"
+    ],
+    "category": "wealth_principles"
+  },
+  {
+    "question": "How does P.T. Barnum suggest making money?",
+    "expected_references": [
+      "art_of_money_getting_chunk_2",
+      "art_of_money_getting_chunk_8"
+    ],
+    "category": "money_making"
+  },
+  {
+    "question": "What does Samuel Smiles say about self-help and personal development?",
+    "expected_references": ["self_help_chunk_3", "self_help_chunk_7"],
+    "category": "self_improvement"
+  },
+  {
+    "question": "What is the 'Acres of Diamonds' story about?",
+    "expected_references": [
+      "acres_of_diamonds_chunk_1",
+      "acres_of_diamonds_chunk_4"
+    ],
+    "category": "opportunity"
+  },
+  {
+    "question": "What are the key differences between the approaches of Barnum and Wattles?",
+    "expected_references": [
+      "art_of_money_getting_chunk_6",
+      "science_of_getting_rich_chunk_3"
+    ],
+    "category": "comparison"
+  },
+  {
+    "question": "How do these authors view the role of education in success?",
+    "expected_references": [
+      "self_help_chunk_5",
+      "science_of_getting_rich_chunk_8"
+    ],
+    "category": "education"
+  },
+  {
+    "question": "What practical advice do these books offer for starting a business?",
+    "expected_references": [
+      "art_of_money_getting_chunk_4",
+      "acres_of_diamonds_chunk_6"
+    ],
+    "category": "business_advice"
+  },
+  {
+    "question": "How do the authors address the concept of failure and persistence?",
+    "expected_references": [
+      "self_help_chunk_8",
+      "science_of_getting_rich_chunk_10"
+    ],
+    "category": "persistence"
+  }
+]
