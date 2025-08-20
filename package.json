@@ -1,0 +1,22 @@
+{
+  "name": "graduate-ai-engineer-assessment",
+  "version": "1.0.0",
+  "description": "Graduate AI Engineer Assessment Template with two AI-focused tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "option-a": "cd option_a_monkey_registry && npm start",
+    "option-b": "cd option_b_rag_qa && npm start"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "assessment",
+    "ai",
+    "rag",
+    "crud",
+    "monkey-registry"
+  ],
+  "author": "Assessment Team",
+  "license": "MIT"
+}
